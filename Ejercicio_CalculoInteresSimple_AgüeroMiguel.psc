@@ -1,20 +1,20 @@
 Algoritmo CalculoInteresSimple
-	
+	//definicion de variables.
     Definir capital, tiempo, interes Como Real
     Definir tasa Como Real
 	
     // Tasa fija precargada
     tasa <- 0.05
 	
-    Escribir "La tasa de interés actual es del 5% (0.05)"
+    Escribir "La tasa de interÃ©s actual es del 5% (0.05)"
     Escribir "Ingrese el capital inicial:"
     Leer capital
 	
-    Escribir "Ingrese el tiempo (en años):"
+    Escribir "Ingrese el tiempo (en aÃ±os):"
     Leer tiempo
 	
     interes <- capital * tasa * tiempo
 	
-    Escribir "El interés generado es: ", interes
+    Escribir "El interÃ©s generado es: ", interes
 	
 FinAlgoritmo
