@@ -15,7 +15,7 @@ Tecnicatura Universitaria en Telecomunicaciones
 # Materia
 Programacion
 
-#Programa Utilizado
+# Programa Utilizado
 PseInt
 
 ## Descripcion
