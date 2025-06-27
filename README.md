@@ -10,13 +10,13 @@
 - Santiago Sayago
 
 # Carrera
-Tecnicatura Universitaria en Telecomunicaciones
+## Tecnicatura Universitaria en Telecomunicaciones
 
 # Materia
-Programacion
+## Programacion
 
 # Programa Utilizado
-PseInt
+## PseInt
 
 ## Descripcion
 Se pidio realizar los siguientes algoritmos:
