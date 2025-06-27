@@ -3,11 +3,11 @@
 # Grupo 7
 
 # **Integrantes del Equipo:**
-.- Mariano Rodriguez Ortale 
-.- Miguel Ignacio Aguero 
-.- Daniel Rivero Graterol 
-.- Tomas Castillo 
-.- Santiago Sayago
+- Mariano Rodriguez Ortale 
+- Miguel Ignacio Aguero 
+- Daniel Rivero Graterol 
+- Tomas Castillo 
+- Santiago Sayago
 
 #Carrera
 Tecnicatura Universitaria en Telecomunicaciones
