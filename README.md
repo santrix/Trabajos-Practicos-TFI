@@ -9,16 +9,16 @@
 - Tomas Castillo 
 - Santiago Sayago
 
-#Carrera
+# Carrera
 Tecnicatura Universitaria en Telecomunicaciones
 
-#Materia
+# Materia
 Programacion
 
 #Programa Utilizado
 PseInt
 
-##Descripcion
+## Descripcion
 Se pidio realizar los siguientes algoritmos:
 1.	Triángulo
 2.	Tabla de multiplicar
