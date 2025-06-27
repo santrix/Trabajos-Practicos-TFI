@@ -1,7 +1,6 @@
 Algoritmo Tabla_de_Multiplicar
 	
-	Definir numero como Entero
-	Definir n Como Entero
+	Definir numero, n como Entero
 	Definir resultado Como Entero
 	Definir respuesta Como Caracter
 	
@@ -16,7 +15,7 @@ Algoritmo Tabla_de_Multiplicar
 		FinPara
 		
 		Repetir
-			Escribir "¿Hacer otra cuenta? (S/N)"
+			Escribir "Â¿Hacer otra cuenta? (S/N)"
 			Leer respuesta
 		Hasta Que respuesta = "S" o respuesta = "s" o respuesta  = "N" o respuesta = "n"
 	Hasta Que respuesta = "N" o respuesta = "n"
