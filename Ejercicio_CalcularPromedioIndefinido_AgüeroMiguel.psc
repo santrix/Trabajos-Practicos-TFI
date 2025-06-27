@@ -1,16 +1,16 @@
 Algoritmo CalcularPromedioIndefinido
-	
+	//definicion de variables
     Definir numero, suma, promedio Como Real
     Definir contador Como Entero
 	
     suma <- 0
     contador <- 0
-	
-    Escribir "Ingrese números para calcular el promedio."
-    Escribir "Para finalizar, ingrese un número negativo."
+	//pedido al usuario
+    Escribir "Ingrese nÃºmeros para calcular el promedio."
+    Escribir "Para finalizar, ingrese un nÃºmero negativo."
 	
     Repetir
-        Escribir "Ingrese un número:"
+        Escribir "Ingrese un nÃºmero:"
         Leer numero
 		
         Si numero >= 0 Entonces
@@ -22,9 +22,9 @@ Algoritmo CalcularPromedioIndefinido
 	
     Si contador > 0 Entonces
         promedio <- suma / contador
-        Escribir "El promedio de los ", contador, " números ingresados es: ", promedio
+        Escribir "El promedio de los ", contador, " nÃºmeros ingresados es: ", promedio
     Sino
-        Escribir "No se ingresaron números válidos para calcular el promedio."
+        Escribir "No se ingresaron nÃºmeros vÃ¡lidos para calcular el promedio."
     FinSi
 	
 FinAlgoritmo
