@@ -1,13 +1,17 @@
 Algoritmo SumaDeMatrices 
+//abajo definimos las variables.
 	Definir matriz1, matriz2, suma Como Entero;
     Dimension matriz1[2,2], matriz2[2,2], suma[2,2];
+//hasta aquí la definicion de variables.
 	Escribir "ingrese los valores de la primera matriz"; 
 Para  i  <- 1 Hasta 2
  Para j  <- 1 Hasta 2
+
 	Escribir "matriz1[", i, ",", j, "]: ";
 	Leer matriz1[i,j];
  FinPara
 FinPara
+//interfaz del usuario
 Escribir "ingrese los valores de la segunda matriz";
 Para i <- 1 Hasta 2
 	Para j <- 1 Hasta 2
