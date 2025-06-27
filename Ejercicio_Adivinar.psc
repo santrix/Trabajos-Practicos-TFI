@@ -6,15 +6,15 @@ Algoritmo Ejercicio_Adivinar
     Definir n Como Entero
     Definir adivinar Como Logico
     adivinar = Falso
-	
-    Escribir "puedes ejegir un número entre 1 y 25. Yo ya lo tengo pensado, a ver si adivinas"
-	
+	//Descripcion de lo que le pide al usuario el programa.
+    Escribir "puedes ejegir un nÃºmero entre 1 y 25. Yo ya lo tengo pensado, a ver si adivinas" 
+	//aqui viene la magia de lo que hace el programa.
     Mientras adivinar = Falso Hacer
         Escribir Sin Saltar "Ingresa tu intento: "
         Leer n
 		
         Si n = numeroSecreto Entonces
-            Escribir "Bieeen ¡Adivinaste el número!"
+            Escribir "Bieeen Â¡Adivinaste el nÃºmero!"
             adivinar = Verdadero
         SiNo
             Si n < numeroSecreto Entonces
