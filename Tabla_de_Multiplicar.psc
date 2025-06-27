@@ -1,5 +1,5 @@
 Algoritmo Tabla_de_Multiplicar
-	
+	//definimos variables para el programa
 	Definir numero, n, resultado como Entero
 	Definir respuesta Como Caracter
 	
@@ -12,7 +12,7 @@ Algoritmo Tabla_de_Multiplicar
 			resultado = numero * n
 			Escribir numero, " x ", n, " = ", resultado 
 		FinPara
-		
+		//repetimos
 		Repetir
 			Escribir "¿Hacer otra cuenta? (S/N)"
 			Leer respuesta
